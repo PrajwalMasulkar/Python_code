@@ -1,4 +1,4 @@
-#Adding an item to the dictionary:
+#Adding an item to the dictionary and displaying:
 
 thisdict=dict(apple="green",banana="yellow",cherry="red")
 thisdict["damson"]="purple"
